@@ -28,10 +28,10 @@ For evaluating the retrieval's performance, we created dataset with the ground t
 The qa contained a mix of easy, medium and hard questions.
 
 Summary of average cosine similarity scores:
-semantic       : 0.8876
-fixed          : 0.8677
-hierarchical   : 0.8495
-custom         : 0.8459
+fixed          : 0.8743
+hierarchical   : 0.8596
+semantic       : 0.8570
+custom         : 0.8357
 
 
 The problem with the calculation is there are cases where the answer is correct but because the content is not highly similar the scores were less
