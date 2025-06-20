@@ -1,0 +1,15 @@
+pypdf
+tiktoken
+spacy
+openai
+pinecone 
+tqdm
+python-dotenv
+ragas==0.2.15
+datasets
+evaluate
+marker-pdf
+torch
+torchvision
+torchaudio
+langchain-pinecone

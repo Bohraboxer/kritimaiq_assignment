@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What are the three possible positions of a line with respect to a circle?",
+      "answers": [
+        "non-intersecting line",
+        "secant",
+        "tangent"
+      ]
+    },
+    {
+      "question": "What does Theorem 10.1 say about tangents and radius?",
+      "answers": ["tangent is perpendicular to the radius"]
+    },
+    {
+      "question": "From how many points can you draw tangents to a circle?",
+      "answers": ["0 from inside", "1 from on the circle", "2 from outside"]
+    },
+    {
+      "question": "What is the definition of a tangent to a circle?",
+      "answers": ["line that touches the circle at exactly one point"]
+    },
+    {
+      "question": "What is the point of contact?",
+      "answers": ["common point of the tangent and the circle"]
+    }
+  ]
+  

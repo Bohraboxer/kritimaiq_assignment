@@ -1,0 +1,866 @@
+[
+  {
+    "id": "10.1_Introduction_1",
+    "text": "You have studied in Class IX that a circle is a collection of all points in a plane which are at a constant distance (radius) from a fixed point (centre). You have also studied various terms related to a circle like chord, segment, sector, arc etc. Let us now examine the different situations that can arise when a circle and a line are given in a plane.",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_1"
+    }
+  },
+  {
+    "id": "10.1_Introduction_2",
+    "text": "So, let us consider a circle and a line PQ. There can be three possibilities given in Fig. 10.1 below:",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_2"
+    }
+  },
+  {
+    "id": "10.1_Introduction_3",
+    "text": "![](_page_0_Figure_4.jpeg)",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_3"
+    }
+  },
+  {
+    "id": "10.1_Introduction_4",
+    "text": "In Fig. 10.1 (i), the line PQ and the circle have no common point. In this case, PQ is called a **non-intersecting** line with respect to the circle. In Fig. 10.1 (ii), there are two common points A and B that the line PQ and the circle have. In this case, we call the line PQ a **secant** of the circle. In Fig. 10.1 (iii), there is only one point A which is common to the line PQ and the circle. In this case, the line is called a **tangent** to the circle.",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_4"
+    }
+  },
+  {
+    "id": "10.1_Introduction_5",
+    "text": "You might have seen a pulley fitted over a well which is used in taking out water from the well. Look at Fig. 10.2. Here the rope on both sides of the pulley, if considered as a ray, is like a tangent to the circle representing the pulley.",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_5"
+    }
+  },
+  {
+    "id": "10.1_Introduction_6",
+    "text": "Is there any position of the line with respect to the circle other than the types given above? You can see that there cannot be any other type of position of the line with respect to the circle. In this chapter, we will study about the existence of the tangents to a circle and also study some of their properties.",
+    "metadata": {
+      "section": "10.1 Introduction",
+      "chunk_id": "10.1 Introduction_6"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_1",
+    "text": "In the previous section, you have seen that **a tangent\\* to a circle is a line that intersects the circle at only one point**.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_1"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_2",
+    "text": "To understand the existence of the tangent to a circle at a point, let us perform the following activities:",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_2"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_3",
+    "text": "**Activity 1 :** Take a circular wire and attach a straight wire AB at a point P of the circular wire so that it can rotate about the point P in a plane. Put the system on a table and gently rotate the wire AB about the point P to get different positions of the straight wire [see Fig. 10.3(i)].",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_3"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_4",
+    "text": "In various positions, the wire intersects the circular wire at P and at another point Q1 or Q2 or Q3, etc. In one position, you will see that it will intersect the circle at the point P only (see position AB of AB). This shows that a tangent exists at the point P of the circle. On rotating further, you can observe that in all other positions of AB, it will intersect the circle at P and at another point, say R1 or R2 or R3, etc. So, you can observe that **there is only one tangent at a point of the circle**.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_4"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_5",
+    "text": "![](_page_1_Figure_8.jpeg)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_5"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_6",
+    "text": "**Fig. 10.3** (i)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_6"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_7",
+    "text": "While doing activity above, you must have observed that as the position AB moves towards the position A B, the common point, say Q1, of the line AB and the circle gradually comes nearer and nearer to the common point P. Ultimately, it coincides with the point P in the position AB of AB. Again note, what happens if 'AB' is rotated rightwards about P? The common point R3 gradually comes nearer and nearer to P and ultimately coincides with P. So, what we see is:",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_7"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_8",
+    "text": "**The tangent to a circle is a special case of the secant, when the two end points of its corresponding chord coincide**.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_8"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_9",
+    "text": "\\*The word 'tangent' comes from the Latin word 'tangere', which means to touch and was introduced by the Danish mathematician Thomas Fineke in 1583.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_9"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_10",
+    "text": "**Fig. 10.2**",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_10"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_11",
+    "text": "**Activity 2 :** On a paper, draw a circle and a secant PQ of the circle. Draw various lines parallel to the secant on both sides of it. You will find that after some steps, the length of the chord cut by the lines will gradually decrease, i.e., the two points of intersection of the line and the circle are coming closer and closer [see Fig. 10.3(ii)]. In one case, it becomes zero on one side of the secant and in another case, it becomes zero on the other side of the secant. See the positions PQ and PQ of the secant in Fig. 10.3 (ii). These are the tangents to the circle parallel to the given secant PQ. This also helps you to see that there cannot be more than two tangents parallel to a given secant.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_11"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_12",
+    "text": "![](_page_2_Figure_2.jpeg)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_12"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_13",
+    "text": "This activity also establishes, what you must have observed, while doing Activity 1, namely, a tangent is the secant when both of the end points of the corresponding chord coincide.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_13"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_14",
+    "text": "The common point of the tangent and the circle is called the **point of contact** [the point A in Fig. 10.1 (iii)]and the tangent is said to **touch** the circle at the common point.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_14"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_15",
+    "text": "Now look around you. Have you seen a bicycle or a cart moving? Look at its wheels. All the spokes of a wheel are along its radii. Now note the position of the wheel with respect to its movement on the ground. Do you see any tangent anywhere? (See Fig. 10.4). In fact, the wheel moves along a line which is a tangent to the circle representing the wheel. Also, notice that in all positions, the radius through the point of contact with the ground appears to be at right angles to the tangent (see Fig. 10.4). We shall now prove this property of the tangent.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_15"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_16",
+    "text": "![](_page_2_Figure_6.jpeg)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_16"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_17",
+    "text": "**Fig. 10.4**",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_17"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_18",
+    "text": "**Theorem 10.1 :** *The tangent at any point of a circle is perpendicular to the radius through the point of contact.*",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_18"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_19",
+    "text": "**Proof :** We are given a circle with centre O and a tangent XY to the circle at a point P. We need to prove that OP is perpendicular to XY.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_19"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_20",
+    "text": "#### CIRCLES 147",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_20"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_21",
+    "text": "Take a point Q on XY other than P and join OQ (see Fig. 10.5).",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_21"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_22",
+    "text": "The point Q must lie outside the circle. (Why? Note that if Q lies inside the circle, XY will become a secant and not a tangent to the circle). Therefore, OQ is longer than the radius OP of the circle. That is,",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_22"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_23",
+    "text": "$$\nOQ > OP\n$$\n.",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_23"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_24",
+    "text": "Since this happens for every point on the line XY except the point P, OP is the shortest of all the distances of the point O to the points of XY. So OP is perpendicular to XY. (as shown in Theorem A1.7.)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_24"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_25",
+    "text": "![](_page_3_Figure_5.jpeg)",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_25"
+    }
+  },
+  {
+    "id": "10.2_Tangent_to_a_Circle_26",
+    "text": "##",
+    "metadata": {
+      "section": "10.2 Tangent to a Circle",
+      "chunk_id": "10.2 Tangent to a Circle_26"
+    }
+  },
+  {
+    "id": "Remarks_1",
+    "text": "1. By theorem above, we can also conclude that at any point on a circle there can be one and only one tangent.",
+    "metadata": {
+      "section": "Remarks",
+      "chunk_id": "Remarks_1"
+    }
+  },
+  {
+    "id": "Remarks_2",
+    "text": "2. The line containing the radius through the point of contact is also sometimes called the 'normal' to the circle at the point.",
+    "metadata": {
+      "section": "Remarks",
+      "chunk_id": "Remarks_2"
+    }
+  },
+  {
+    "id": "EXERCISE_10.1_1",
+    "text": "- **1.** How many tangents can a circle have?\n- **2.** Fill in the blanks :\n\t- (i) A tangent to a circle intersects it in point (s).\n\t- (ii) A line intersecting a circle in two points is called a .\n\t- (iii) A circle can have parallel tangents at the most.\n\t- (iv) The common point of a tangent to a circle and the circle is called .\n- **3.** A tangent PQ at a point P of a circle of radius 5 cm meets a line through the centre O at a point Q so that OQ = 12 cm. Length PQ is :",
+    "metadata": {
+      "section": "EXERCISE 10.1",
+      "chunk_id": "EXERCISE 10.1_1"
+    }
+  },
+  {
+    "id": "EXERCISE_10.1_2",
+    "text": "(A) 12 cm (B) 13 cm (C) 8.5 cm (D) 119 cm.",
+    "metadata": {
+      "section": "EXERCISE 10.1",
+      "chunk_id": "EXERCISE 10.1_2"
+    }
+  },
+  {
+    "id": "EXERCISE_10.1_3",
+    "text": "**4.** Draw a circle and two lines parallel to a given line such that one is a tangent and the other, a secant to the circle.",
+    "metadata": {
+      "section": "EXERCISE 10.1",
+      "chunk_id": "EXERCISE 10.1_3"
+    }
+  },
+  {
+    "id": "EXERCISE_10.1_4",
+    "text": "#",
+    "metadata": {
+      "section": "EXERCISE 10.1",
+      "chunk_id": "EXERCISE 10.1_4"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_1",
+    "text": "To get an idea of the number of tangents from a point on a circle, let us perform the following activity:",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_1"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_2",
+    "text": "**Activity 3 :** Draw a circle on a paper. Take a point P inside it. Can you draw a tangent to the circle through this point? You will find that all the lines through this point intersect the circle in two points. So, it is not possible to draw any tangent to a circle through a point inside it [see Fig. 10.6 (i)].",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_2"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_3",
+    "text": "Next take a point P on the circle and draw tangents through this point. You have already observed that there is only one tangent to the circle at such a point [see Fig. 10.6 (ii)].",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_3"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_4",
+    "text": "Finally, take a point P outside the circle and try to draw tangents to the circle from this point. What do you observe? You will find that you can draw exactly two tangents to the circle through this point [see Fig. 10.6 (iii)].",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_4"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_5",
+    "text": "We can summarise these facts as follows:",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_5"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_6",
+    "text": "**Case 1 :** There is no tangent to a circle passing through a point lying inside the circle.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_6"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_7",
+    "text": "**Case 2 :** There is one and only one tangent to a circle passing through a point lying on the circle.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_7"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_8",
+    "text": "**Case 3 :** There are exactly two tangents to a circle through a point lying outside the circle.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_8"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_9",
+    "text": "In Fig. 10.6 (iii), T1 and T2 are the points of contact of the tangents PT1 and PT2 respectively.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_9"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_10",
+    "text": "The length of the segment of the tangent from the external point P and the point of contact with the circle is called the **length of the tangent** from the point P to the circle.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_10"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_11",
+    "text": "![](_page_4_Figure_10.jpeg)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_11"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_12",
+    "text": "**Fig. 10.6**",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_12"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_13",
+    "text": "Note that in Fig. 10.6 (iii), PT1 and PT2 are the lengths of the tangents from P to the circle. The lengths PT1 and PT2 have a common property. Can you find this? Measure PT1 and PT2 . Are these equal? In fact, this is always so. Let us give a proof of this fact in the following theorem.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_13"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_14",
+    "text": "#### CIRCLES 149",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_14"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_15",
+    "text": "**Theorem 10.2 :** *The lengths of tangents drawn from an external point to a circle are equal*.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_15"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_16",
+    "text": "**Proof :** We are given a circle with centre O, a point P lying outside the circle and two tangents PQ, PR on the circle from P (see Fig. 10.7). We are required to prove that PQ = PR.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_16"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_17",
+    "text": "For this, we join OP, OQ and OR. Then ∠ OQP and ∠ ORP are right angles, because these are angles between the radii and tangents, and according to Theorem 10.1 they are right angles. Now in right triangles OQP and ORP,",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_17"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_18",
+    "text": "![](_page_5_Figure_4.jpeg)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_18"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_19",
+    "text": "|            | OQ =<br>OR       | (Radii of the same circle) |\n|------------|------------------|----------------------------|\n|            | OP =<br>OP       | (Common)                   |\n| Therefore, | ∆ OQP ≅<br>∆ ORP | (RHS)                      |\n| This gives | PQ =<br>PR       | (CPCT)                     |",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_19"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_20",
+    "text": "# **Remarks**",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_20"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_21",
+    "text": "# 1. The theorem can also be proved by using the Pythagoras Theorem as follows:",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_21"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_22",
+    "text": "$$\nPQ^2 = OP^2 - OQ^2 = OP^2 - OR^2 = PR^2\n$$\n (As  $OQ = OR$ )",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_22"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_23",
+    "text": "which gives PQ = PR.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_23"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_24",
+    "text": "2. Note also that ∠ OPQ = ∠ OPR. Therefore, OP is the angle bisector of ∠ QPR, i.e., the centre lies on the bisector of the angle between the two tangents.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_24"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_25",
+    "text": "Let us take some examples.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_25"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_26",
+    "text": "**Example 1 :** Prove that in two concentric circles, the chord of the larger circle, which touches the smaller circle, is bisected at the point of contact.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_26"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_27",
+    "text": "**Solution :** We are given two concentric circles C1 and C<sup>2</sup> with centre O and a chord AB of the larger circle C<sup>1</sup> which touches the smaller circle C2 at the point P (see Fig. 10.8). We need to prove that AP = BP.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_27"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_28",
+    "text": "Let us join OP. Then, AB is a tangent to C<sup>2</sup> at P and OP is its radius. Therefore, by Theorem 10.1,",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_28"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_29",
+    "text": "OP ⊥ AB",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_29"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_30",
+    "text": "![](_page_5_Figure_17.jpeg)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_30"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_31",
+    "text": "Now AB is a chord of the circle C1 and OP AB. Therefore, OP is the bisector of the chord AB, as the perpendicular from the centre bisects the chord,",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_31"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_32",
+    "text": "i.e., AP = BP",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_32"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_33",
+    "text": "**Example 2 :** Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that PTQ = 2 OPQ.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_33"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_34",
+    "text": "**Solution :** We are given a circle with centre O, an external point T and two tangents TP and TQ to the circle, where P, Q are the points of contact (see Fig. 10.9). We need to prove that",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_34"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_35",
+    "text": "![](_page_6_Figure_6.jpeg)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_35"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_36",
+    "text": "PTQ = 2 OPQ",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_36"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_37",
+    "text": "Let PTQ =",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_37"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_38",
+    "text": "Now, by Theorem 10.2, TP = TQ. So, TPQ is an isosceles triangle.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_38"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_39",
+    "text": "Therefore, TPQ = TQP = 1 1 (180° ) 90° 2 2",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_39"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_40",
+    "text": "Also, by Theorem 10.1, OPT = 90°",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_40"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_41",
+    "text": "So, \n$$\n\\angle OPQ = \\angle OPT - \\angle TPQ = 90^{\\circ} - \\left(90^{\\circ} - \\frac{1}{2} \\theta\\right)\n$$",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_41"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_42",
+    "text": "$$\n= \\frac{1}{2} \\theta = \\frac{1}{2} \\angle PTQ\n$$",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_42"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_43",
+    "text": "2",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_43"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_44",
+    "text": "This gives PTQ = 2 OPQ",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_44"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_45",
+    "text": "**Example 3 :** PQ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at P and Q intersect at a point T (see Fig. 10.10). Find the length TP.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_45"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_46",
+    "text": "**Solution :** Join OT. Let it intersect PQ at the point R. Then TPQ is isosceles and TO is the angle bisector of PTQ. So, OT PQ and therefore, OT bisects PQ which gives PR = RQ = 4 cm.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_46"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_47",
+    "text": "Also, \n$$\nOR = \\sqrt{OP^2 - PR^2} = \\sqrt{5^2 - 4^2}\n$$\n cm = 3 cm.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_47"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_48",
+    "text": "![](_page_6_Figure_20.jpeg)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_48"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_49",
+    "text": "Now, TPR + RPO = 90° = TPR + PTR (Why?) So, RPO = PTR",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_49"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_50",
+    "text": "Therefore, right triangle TRP is similar to the right triangle PRO by AA similarity.",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_50"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_51",
+    "text": "This gives \n$$\n\\frac{TP}{PQ} = \\frac{RP}{RO}, i.e., \\frac{TP}{5} = \\frac{4}{3} \\text{ or } TP = \\frac{20}{3} \\text{ cm}.\n$$",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_51"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_52",
+    "text": "**Note :** TP can also be found by using the Pythagoras Theorem, as follows:",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_52"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_53",
+    "text": "Let \n$$\nTP = x\n$$\n and  $TR = y$ . Then  \n\\n $x^2 = y^2 + 16$  (Taking right  $\\triangle$  PRT) (1)  \n\\n $x^2 + 5^2 = (y + 3)^2$  (Taking right  $\\triangle$  OPT) (2)",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_53"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_54",
+    "text": "Subtracting (1) from (2), we get",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_54"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_55",
+    "text": "Therefore, *x*<sup>2</sup>",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_55"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_56",
+    "text": "25 = 6*y* – 7 or *y* = 6 3 = 2 16 16 16 25 16 (16 9) 39 9 [From (1)] or *x* = 20",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_56"
+    }
+  },
+  {
+    "id": "10.3_Number_of_Tangents_from_a_Point_on_a_Circle_57",
+    "text": "32 16",
+    "metadata": {
+      "section": "10.3 Number of Tangents from a Point on a Circle",
+      "chunk_id": "10.3 Number of Tangents from a Point on a Circle_57"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_1",
+    "text": "In Q.1 to 3, choose the correct option and give justification.",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_1"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_2",
+    "text": "3",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_2"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_3",
+    "text": "**1.** From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the centre is 25 cm. The radius of the circle is",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_3"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_4",
+    "text": "(A) 7 cm (B) 12 cm",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_4"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_5",
+    "text": "- \n- \n- (C) 15 cm (D) 24.5 cm\n- **2.** In Fig. 10.11, if TP and TQ are the two tangents to a circle with centre O so that POQ = 110°, then PTQ is equal to\n\t- (A) 60° (B) 70°\n\t- (C) 80° (D) 90°\n- **3.** If tangents PA and PB from a point P to a circle with centre O are inclined to each other at angle of 80°, then POA is equal to\n\t- (A) 50° (B) 60°\n\t- (C) 70° (D) 80°",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_5"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_6",
+    "text": "![](_page_7_Figure_23.jpeg)",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_6"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_7",
+    "text": "- **4.** Prove that the tangents drawn at the ends of a diameter of a circle are parallel.\n- **5.** Prove that the perpendicular at the point of contact to the tangent to a circle passes through the centre.\n- **6.** The length of a tangent from a point A at distance 5 cm from the centre of the circle is 4 cm. Find the radius of the circle.\n- **7.** Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.\n- **8.** A quadrilateral ABCD is drawn to circumscribe a circle (see Fig. 10.12). Prove that",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_7"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_8",
+    "text": "![](_page_8_Figure_6.jpeg)",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_8"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_9",
+    "text": "- **9.** In Fig. 10.13, XY and XY are two parallel tangents to a circle with centre O and another tangent AB with point of contact C intersecting XY at A and XY at B. Prove that AOB = 90°.\n- **10.** Prove that the angle between the two tangents drawn from an external point to a circle is supplementary to the angle subtended by the line-segment joining the points of contact at the centre.\n- **11.** Prove that the parallelogram circumscribing a circle is a rhombus.\n- **12.** A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the segments BD and DC into which BC is divided by the point of contact D are of lengths 8 cm and 6 cm respectively (see Fig. 10.14). Find the sides AB and AC.\n- **13.** Prove that opposite sides of a quadrilateral circumscribing a circle subtend supplementary angles at the centre of the circle. **Fig. 10.14**",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_9"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_10",
+    "text": "![](_page_8_Figure_12.jpeg)",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_10"
+    }
+  },
+  {
+    "id": "EXERCISE_10.2_11",
+    "text": "#### CIRCLES 153",
+    "metadata": {
+      "section": "EXERCISE 10.2",
+      "chunk_id": "EXERCISE 10.2_11"
+    }
+  },
+  {
+    "id": "10.4_Summary_1",
+    "text": "In this chapter, you have studied the following points :",
+    "metadata": {
+      "section": "10.4 Summary",
+      "chunk_id": "10.4 Summary_1"
+    }
+  },
+  {
+    "id": "10.4_Summary_2",
+    "text": "- **1.** The meaning of a tangent to a circle.\n- **2.** The tangent to a circle is perpendicular to the radius through the point of contact.\n- **3.** The lengths of the two tangents from an external point to a circle are equal.",
+    "metadata": {
+      "section": "10.4 Summary",
+      "chunk_id": "10.4 Summary_2"
+    }
+  }
+]
