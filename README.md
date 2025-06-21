@@ -14,6 +14,10 @@ Conclusion: After some amount of analysis, I have observed that custom chunking 
 I choose Semantic Chunking as the results were better with semantic search approach because the number of sentences in each paragraph is small and having an overlap of 5 sentences would helpful to get the context clearer.
 With each type of chunking technique, we uploaded the data on Vector database (Pinecone) and created few test cases. Then we compared the ground truth with the answer generated with respect to the context data given to LLM. We used similarity score to compare similarity.  
 
+Chunking scripts: assignment/chunking/
+evaluation: assignmnet/evaluate.py
+json files having result comparision: assignment/generated_answers_custom.json assignment/generated_answers_fixed.json assignment/generated_answers_hierarchical.json assignment/generated_answers_semantic.json
+
 
 ## PART-2 : Vector Database Implementation
 
@@ -36,6 +40,8 @@ custom         : 0.8357
 
 The problem with the calculation is there are cases where the answer is correct but because the content is not highly similar the scores were less
 
+Script: assignment/storing_chunking_in_vectordb.py
+
 
 ## PART-4 : ReRanking
 
@@ -43,9 +49,13 @@ We choose Cross-encoder re-ranking as this is the best Reranking technique when 
 
 The Reranking information + generated data is around three times slower when compared to normal information + generated data. But the number of reference required is 70% less for reranked + Generated data as compared to normal information + generated data
 
+Python Notebook: assignment/Part2-3-4/semantic_chunking_exp.ipynb
+
 
 ## PART-5 : Pipeline
 
 Successfully built a basic pipeline that would read qeustions from .json file and answer questions by taking external informationa about the data from the vectordatabase.
 
 This is then compared with the ground truth which is also provided and also checks for hallucination by looking into the source and validating if the answer given has text from source or not.
+
+Script: assignment/rag_pipeline
